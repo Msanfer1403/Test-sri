@@ -3,4 +3,8 @@ Repo for SRI
 
 ## How to install
 
-Mimimi, mimimi
+Use this command:
+
+``` 
+$ vagrant up
+```
